@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Daniel Gonzalez-Duque's Blog
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
@@ -98,5 +98,9 @@ pricing:
       plan: Custom
       price: '?'
 ---
+        
+
+## Hello
+Hello world
 
 
